@@ -1,5 +1,5 @@
-<div align="center>
- # pathfinding-depth-first
+
+# pathfinding-depth-first
 Simple implementation of depth first pathfinding algorithm
 # depth first
 https://en.wikipedia.org/wiki/Depth-first_search
@@ -16,4 +16,3 @@ To run the pathfinder run the breadthfirst/DFPathfinder.py file
 # YouTube
 https://www.youtube.com/watch?v=QhrNuEBUVIw&feature=youtu.be
 # ENJOY
-</div>
